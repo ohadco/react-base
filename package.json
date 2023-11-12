@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "antd": "^3.13.2",
-    "axios": "^0.21.1",
+    "axios": "^1.6.0",
     "connected-react-router": "^6.3.0",
     "history": "^4.7.2",
     "lodash": "^4.17.11",
